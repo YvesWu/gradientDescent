@@ -28,6 +28,6 @@ data = shuffle(data)
 
 # save data
 df = pd.DataFrame(data)
-df.to_csv('test.csv')
+df.to_csv('data.csv')
 
 
