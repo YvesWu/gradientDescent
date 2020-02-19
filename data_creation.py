@@ -8,7 +8,7 @@ import pandas as pd
 
 # init
 
-a = 3 # y = a*x + b
+w = 3 # y = b + wx
 b = 5
 n = 1000 # n: number of data
 mean = 0 # add normal distribution noise
